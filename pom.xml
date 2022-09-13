@@ -3,7 +3,7 @@
     <groupId>com.sidgs.apigee</groupId>
     <artifactId>hdfc-cicd-dummy14-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>hdfc-cicd-dummy14-parent</name>
 
     <parent>
