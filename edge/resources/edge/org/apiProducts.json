@@ -1,0 +1,29 @@
+[
+    {
+        "name": "dummy14Product",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "dummy14Product"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "dummy14Product",
+        "displayName": "dummy14Product",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "hdfc-cicd-dummy14"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]

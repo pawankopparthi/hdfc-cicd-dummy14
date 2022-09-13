@@ -1,0 +1,12 @@
+{
+	"domains": {
+		"dev": "https://${org}-${env}.apigee.net"
+	},
+	"hdfc-cicd-dummy14": {
+		"basepath": "/v1/dummy14",
+		"product":"dummy14Product",
+		"app":"dummy14App",
+		"org":"${org}",
+		"env":"${env}"
+	}
+}
